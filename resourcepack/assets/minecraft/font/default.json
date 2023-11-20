@@ -1,0 +1,9 @@
+{
+    "providers": [
+        {"type": "bitmap", "file": "minecraft:default/pixel.png","ascent": -2000,"height": -3,"chars": ["₴"]},
+
+        {"docstring": "Example:"},
+        {"type": "bitmap","file": "minecraft:menu/join_event.png",
+            "ascent": 13,"height": 137,"chars": ["☀"]}
+    ]
+}
