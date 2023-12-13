@@ -2,14 +2,14 @@
     "providers": [
         {
             "type": "bitmap", 
-            "file": "minecraft:font/default/pixel.png",
+            "file": "minecraft:default/pixel.png",
             "ascent": -2000,
             "height": -3,
             "chars": ["₴"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/menu/menu.png",
+            "file": "minecraft:menu/menu.png",
             "ascent": 13,
             "height": 137,
             "chars": ["☀"]
