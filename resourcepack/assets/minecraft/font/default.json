@@ -4,14 +4,14 @@
             "type": "bitmap", 
             "file": "minecraft:default/pixel.png",
             "ascent": -2000,
-            "height": -3,
+            "height": -10,
             "chars": ["₴"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:menu/menu.png",
             "ascent": 13,
-            "height": 137,
+            "height": 150,
             "chars": ["☀"]
         }
     ]
