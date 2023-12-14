@@ -4,7 +4,7 @@
             "type": "bitmap", 
             "file": "minecraft:default/pixel.png",
             "ascent": -2000,
-            "height": -10,
+            "height": -4,
             "chars": ["₴"]
         },
         {
