@@ -1,10 +1,9 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/paper"
+        "layer0": "item/pink_stained_glass_pane"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":1010}, "model": "custom/invisibleitem"},
-		{"predicate": {"custom_model_data":1011}, "model": "custom/prideflag"}
+            {"predicate": {"custom_model_data":1}, "model": "custom/invisibleitem"}
         ]
 }
