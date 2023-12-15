@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1010}, "model": "custom/invisibleitem"},
+		{"predicate": {"custom_model_data":1011}, "model": "custom/prideflag"}
+        ]
+}
