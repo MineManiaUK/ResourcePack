@@ -13,6 +13,13 @@
             "ascent": 20,
             "height": 140,
             "chars": ["☀"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:menu/games.png",
+            "ascent": 20,
+            "height": 140,
+            "chars": ["⏅"]
         }
     ]
 }
