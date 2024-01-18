@@ -27,6 +27,13 @@
             "ascent": 20,
             "height": 140,
             "chars": ["⁌"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:menu/warps_my.png",
+            "ascent": 20,
+            "height": 140,
+            "chars": ["▶"]
         }
     ]
 }
