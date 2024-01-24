@@ -58,6 +58,16 @@
             "ascent": 8,
             "height": 8,
             "chars": ["⎋"]
-        }
+        },
+        
+        {"type": "bitmap", "file": "minecraft:guis/pixel.png","ascent": -2000,"height": -3,"chars": ["七"]},
+        {"type": "bitmap", "file": "minecraft:guis/jobsgui2/miner.png","ascent": 13,"height": 129,"chars": ["ㇺ"]},
+        {"type": "bitmap", "file": "minecraft:guis/jobsgui2/digger.png","ascent": 13,"height": 129,"chars": ["ㇻ"]},
+        {"type": "bitmap", "file": "minecraft:guis/jobsgui2/woodcutter.png","ascent": 13,"height": 129,"chars": ["ㇼ"]},
+        {"type": "bitmap", "file": "minecraft:guis/jobsgui2/farmer.png","ascent": 13,"height": 129,"chars": ["ㇽ"]},
+        {"type": "bitmap", "file": "minecraft:guis/jobsgui2/hunter.png","ascent": 13,"height": 129,"chars": ["ァ"]},
+        {"type": "bitmap", "file": "minecraft:guis/jobsgui2/fisher.png","ascent": 13,"height": 129,"chars": ["ㇾ"]},
+        {"type": "bitmap", "file": "minecraft:guis/jobsgui2/builder.png","ascent": 13,"height": 129,"chars": ["ㇿ"]},
+        {"type": "bitmap", "file": "minecraft:guis/jobsgui2/click.png","ascent": 10,"height": 13,"chars": ["ㇶ"]}
     ]
 }
