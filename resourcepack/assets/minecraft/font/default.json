@@ -34,14 +34,30 @@
             "ascent": 20,
             "height": 140,
             "chars": ["▶"]
-        }
-        ,
+        },
         {
             "type": "bitmap",
             "file": "minecraft:menu/warps_editor.png",
             "ascent": 20,
             "height": 140,
             "chars": ["☒"]
+        },
+
+
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:icon/right_click.png",
+            "ascent": 20,
+            "height": 140,
+            "chars": ["⌘"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icon/right_click.png",
+            "ascent": 20,
+            "height": 140,
+            "chars": ["⎋"]
         }
     ]
 }
