@@ -48,15 +48,15 @@
         {
             "type": "bitmap",
             "file": "minecraft:icon/right_click.png",
-            "ascent": 0,
-            "height": 6,
+            "ascent": 8,
+            "height": 8,
             "chars": ["⌘"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:icon/right_click.png",
-            "ascent": 0,
-            "height": 6,
+            "file": "minecraft:icon/left_click.png",
+            "ascent": 8,
+            "height": 8,
             "chars": ["⎋"]
         }
     ]
