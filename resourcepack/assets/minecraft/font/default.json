@@ -1,64 +1,15 @@
 {
     "providers": [
-        {
-            "type": "bitmap", 
-            "file": "minecraft:default/pixel.png",
-            "ascent": -2000,
-            "height": -3,
-            "chars": ["₴"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:menu/menu.png",
-            "ascent": 20,
-            "height": 140,
-            "chars": ["☀"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:menu/games.png",
-            "ascent": 20,
-            "height": 140,
-            "chars": ["⏅"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:menu/warps.png",
-            "ascent": 20,
-            "height": 140,
-            "chars": ["⁌"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:menu/warps_my.png",
-            "ascent": 20,
-            "height": 140,
-            "chars": ["▶"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:menu/warps_editor.png",
-            "ascent": 20,
-            "height": 140,
-            "chars": ["☒"]
-        },
+        {"type": "bitmap", "file": "minecraft:default/pixel.png","ascent": -2000,"height": -3,"chars": ["₴"]},
+        {"type": "bitmap", "file": "minecraft:menu/menu.png","ascent": 20,"height": 140,"chars": ["☀"]},
+        {"type": "bitmap", "file": "minecraft:menu/games.png","ascent": 20,"height": 140,"chars": ["⏅"]},
+        {"type": "bitmap", "file": "minecraft:menu/warps.png","ascent": 20,"height": 140,"chars": ["⁌"]},
+        {"type": "bitmap", "file": "minecraft:menu/warps_my.png","ascent": 20,"height": 140,"chars": ["▶"]},
+        {"type": "bitmap", "file": "minecraft:menu/warps_editor.png","ascent": 20,"height": 140,"chars": ["☒"]},
+        {"type": "bitmap", "file": "minecraft:menu/teleport.png","ascent": 20,"height": 140,"chars": ["🃄"]},
 
-
-
-        {
-            "type": "bitmap",
-            "file": "minecraft:icon/right_click.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["⌘"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:icon/left_click.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["⎋"]
-        },
+        {"type": "bitmap", "file": "minecraft:icon/right_click.png","ascent": 8,"height": 8,"chars": ["⌘"]},
+        {"type": "bitmap", "file": "minecraft:icon/left_click.png","ascent": 8,"height": 8,"chars": ["⎋"]},
         
         {"type": "bitmap", "file": "minecraft:guis/pixel.png","ascent": -2000,"height": -3,"chars": ["七"]},
         {"type": "bitmap", "file": "minecraft:guis/jobsgui2/miner.png","ascent": 13,"height": 129,"chars": ["ㇺ"]},
