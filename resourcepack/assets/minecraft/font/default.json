@@ -6,7 +6,7 @@
         {"type": "bitmap", "file": "minecraft:menu/warps.png","ascent": 20,"height": 140,"chars": ["⁌"]},
         {"type": "bitmap", "file": "minecraft:menu/warps_my.png","ascent": 20,"height": 140,"chars": ["▶"]},
         {"type": "bitmap", "file": "minecraft:menu/warps_editor.png","ascent": 20,"height": 140,"chars": ["☒"]},
-        {"type": "bitmap", "file": "minecraft:menu/teleport.png","ascent": 20,"height": 140,"chars": ["🃄"]},
+        {"type": "bitmap", "file": "minecraft:menu/teleport.png","ascent": 20,"height": 140,"chars": ["?"]},
 
         {"type": "bitmap", "file": "minecraft:icon/right_click.png","ascent": 8,"height": 8,"chars": ["⌘"]},
         {"type": "bitmap", "file": "minecraft:icon/left_click.png","ascent": 8,"height": 8,"chars": ["⎋"]},
