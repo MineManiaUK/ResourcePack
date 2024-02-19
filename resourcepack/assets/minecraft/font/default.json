@@ -10,7 +10,7 @@
         {"type": "bitmap", "file": "minecraft:menu/smp.png","ascent": 20,"height": 140,"chars": ["✼"]},
         {"type": "bitmap", "file": "minecraft:menu/deliveries.png","ascent": 20,"height": 140,"chars": ["✿"]},
         {"type": "bitmap", "file": "minecraft:menu/deliveries_pick_player.png","ascent": 20,"height": 140,"chars": ["✆"]},
-        {"type": "bitmap", "file": "minecraft:menu/deliveries_add_item.png","ascent": 20,"height": 140,"chars": ["☎︎"]},
+        {"type": "bitmap", "file": "minecraft:menu/deliveries_add_items.png","ascent": 20,"height": 140,"chars": ["☎︎"]},
         {"type": "bitmap", "file": "minecraft:menu/chestshops.png","ascent": 20,"height": 140,"chars": ["⚡"]},
 
         {"type": "bitmap", "file": "minecraft:icon/right_click.png","ascent": 8,"height": 8,"chars": ["⌘"]},
