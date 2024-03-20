@@ -4,6 +4,7 @@
         {"type": "bitmap", "file": "minecraft:menu/menu.png","ascent": 20,"height": 140,"chars": ["☀"]},
         {"type": "bitmap", "file": "minecraft:menu/games.png","ascent": 20,"height": 140,"chars": ["⏅"]},
         {"type": "bitmap", "file": "minecraft:menu/games_room.png","ascent": 20,"height": 140,"chars": ["㉿"]},
+        {"type": "bitmap", "file": "minecraft:menu/games_room.png","ascent": 20,"height": 140,"chars": [""]},
         {"type": "bitmap", "file": "minecraft:menu/warps.png","ascent": 20,"height": 140,"chars": ["⁌"]},
         {"type": "bitmap", "file": "minecraft:menu/warps_my.png","ascent": 20,"height": 140,"chars": ["▶"]},
         {"type": "bitmap", "file": "minecraft:menu/warps_editor.png","ascent": 20,"height": 140,"chars": ["☒"]},
