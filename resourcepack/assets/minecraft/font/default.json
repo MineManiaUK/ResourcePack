@@ -16,6 +16,7 @@
         {"type": "bitmap", "file": "minecraft:menu/chestshops.png","ascent": 20,"height": 140,"chars": ["⚡"]},
         {"type": "bitmap", "file": "minecraft:menu/bed_wars_shop.png","ascent": 20,"height": 140,"chars": ["钫"]},
         {"type": "bitmap", "file": "minecraft:menu/bed_wars_upgrades.png","ascent": 20,"height": 140,"chars": ["钻"]},
+        {"type": "bitmap", "file": "minecraft:menu/bed_wars_team_selector.png","ascent": 20,"height": 140,"chars": ["钾"]},
 
         {"type": "bitmap", "file": "minecraft:icon/right_click.png","ascent": 8,"height": 8,"chars": ["⌘"]},
         {"type": "bitmap", "file": "minecraft:icon/left_click.png","ascent": 8,"height": 8,"chars": ["⎋"]},
