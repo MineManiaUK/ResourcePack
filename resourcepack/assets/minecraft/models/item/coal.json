@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/coal"
+    },	
+	"overrides": [	
+		{"predicate": {"custom_model_data":2076}, "model": "dragon_warrior_model/icon_dragon_breath"},
+		{"predicate": {"custom_model_data":2077}, "model": "dragon_warrior_model/icon_dragon_dash"},
+		{"predicate": {"custom_model_data":2078}, "model": "dragon_warrior_model/icon_dragon_skin"},
+		{"predicate": {"custom_model_data":2079}, "model": "dragon_warrior_model/icon_dragon_slash"},
+		{"predicate": {"custom_model_data":2080}, "model": "dragon_warrior_model/icon_dragon_zone"},
+		{"predicate": {"custom_model_data":2081}, "model": "dragon_warrior_model/icon_dragonborn"}
+	]
+}
