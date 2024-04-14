@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/bettafish"},"elements":[{"from":[8.91284,4.00381,7.0],"to":[8.91284,8.00381,9.0],"faces":{"east":{"uv":[5.0,1.0,6.0,3.0],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[6.0,1.0,7.0,3.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}
