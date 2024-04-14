@@ -1,9 +1,9 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "custom/pink_stained_glass_pane"
+        "layer0": "minecraft:models/custom/pink_stained_glass_pane_default"
     },
     "overrides": [
-            {"predicate": {"custom_model_data":1}, "model": "custom/invisibleitem"}
+            {"predicate": {"custom_model_data":1}, "model": "minecraft:models/custom/invisibleitem"}
         ]
 }
