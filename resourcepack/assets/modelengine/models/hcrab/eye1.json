@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/purple"},"elements":[{"from":[6.9962,8.043449,8.00095],"to":[8.9962,11.04345,8.00095],"faces":{"south":{"uv":[0.5,0.0,1.0,0.75],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[0.0,0.0,0.5,0.75],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}
