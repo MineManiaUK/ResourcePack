@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/mangrove"},"elements":[{"from":[7.0,8.0,4.0],"to":[12.0,8.0,13.0],"faces":{"up":{"uv":[3.5,5.25,2.25,3.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[4.75,3.0,3.5,5.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}
