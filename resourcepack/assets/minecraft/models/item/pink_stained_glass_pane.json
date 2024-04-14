@@ -4,6 +4,7 @@
         "layer0": "item/pink_stained_glass_pane"
     },
     "overrides": [
-            {"predicate": {"custom_model_data":1}, "model": "custom/invisibleitem"}
+            {"predicate": {"custom_model_data":1}, "model": "item/pink_stained_glass_pane"},
+            {"predicate": {"custom_model_data":2}, "model": "custom/invisibleitem"}
         ]
 }
