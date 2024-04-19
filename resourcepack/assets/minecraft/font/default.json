@@ -2,6 +2,7 @@
     "providers": [
         {"type": "bitmap", "file": "minecraft:default/pixel.png","ascent": -2000,"height": -3,"chars": ["₴"]},
         {"type": "bitmap", "file": "minecraft:menu/menu.png","ascent": 20,"height": 140,"chars": ["☀"]},
+        {"type": "bitmap", "file": "minecraft:menu/menu_page2.png","ascent": 20,"height": 140,"chars": ["✣"]},
         {"type": "bitmap", "file": "minecraft:menu/games.png","ascent": 20,"height": 140,"chars": ["⏅"]},
         {"type": "bitmap", "file": "minecraft:menu/games_room.png","ascent": 20,"height": 140,"chars": ["㉿"]},
         {"type": "bitmap", "file": "minecraft:menu/games_room_map_selector.png","ascent": 20,"height": 140,"chars": [""]},
