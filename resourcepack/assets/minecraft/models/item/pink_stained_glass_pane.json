@@ -1,9 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/pink_stained_glass_pane"
-    },
-    "overrides": [
-            {"predicate": {"custom_model_data":1}, "model": "custom/invisibleitem"}
-        ]
-}
+{"parent":"item/generated","textures":{"layer0":"minecraft:block/pink_stained_glass"},"overrides":[{"predicate":{"custom_model_data":1},"model":"custom/invisibleitem"}]}
