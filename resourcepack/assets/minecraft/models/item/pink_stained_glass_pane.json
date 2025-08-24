@@ -1,9 +1,10 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "minecraft:block/pink_stained_glass"
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "cases": {
+      "1": { "type": "model", "model": "item/invisible_item" }
     },
-    "overrides": [
-            {"predicate": {"custom_model_data":1}, "model": "custom/invisibleitem"}
-        ]
+    "fallback": { "type": "model", "model": "block/pink_stained_glass_pane" }
+  }
 }

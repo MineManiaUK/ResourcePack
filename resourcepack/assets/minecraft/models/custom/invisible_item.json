@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "default/16x16",
+    "particle": "default/16x16"
+  }
+}
