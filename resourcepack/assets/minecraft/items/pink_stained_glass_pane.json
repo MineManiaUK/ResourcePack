@@ -1,0 +1,14 @@
+{
+	"model": {
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "item/pink_stained_glass_pane"
+		},
+		"entries": [
+			{"threshold":  1, "model": {"type": "model","model": "item/invisible_item"}},
+      		{"threshold": 2, "model": {"type": "model", "model": "item/pink_stained_glass_pane"}}
+		]
+	}
+}
